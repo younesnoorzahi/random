@@ -1,4 +1,4 @@
-<img src="" alt="img logo">
+<img src="random-logo-png-transparent.png" alt="img logo">
 <h1>random</h1>
 <p>The random module in Python is used to generate pseudo-random numbers for various probabilistic operations. Here's a comprehensive guide to using it:</p>
 <h2>Important Notes</h2>
